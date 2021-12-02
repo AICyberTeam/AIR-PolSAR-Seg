@@ -1,19 +1,17 @@
 # AIR-PolSAR-Seg
 
-## 高分辨率全极化SAR地物要素提取数据集
-高分辨率全极化SAR地物要素提取数据集（AIR-PolSAR-Seg）发布500幅图像，图像分辨率为8m，成像模式为全极化条带1 (QPSI) 模式，极化方式为全极化，场景类型包含城市密集区和郊区等不同建筑密度等级的区域，地物要素类型覆盖住宅区、工业区、河流、裸地、植被和其他共6类地物。
+We build a challenging PolSAR terrain segmentation data set called AIR-PolSAR-Seg with higher data scale and scene complexity. The data set is open to the community to provide support for research in the field of PolSAR terrain segmentation.
 
-图像尺寸为512×512像素，图像格式为Tiff、16位图像深度，每幅图像包含HH、HV、VH、VV四种极化方式。标注文件格式为PNG，提供像素级的区域标注及该区域的地物要素类别。
-
-## 数据下载链接
-百度网盘：coming soon~
+## Introduction
+The presented AIR-PolSAR-Seg contain 500 full-polarization SAR images with a size of 512x512 and each image has 4 kinds of polarization modes, including the HH,HV,VH,and VV. Therefore, the total number is 2000. These full-polarization SAR images are provided by the Gaofen-3 satellite at quad-polarized strip I (QPSI) mode. The spatial resolution is 8m, and it is annotated with respect to 6 categories at pixel level. 
 
 
-## 数据使用请详见“SAR样本数据集使用说明”。
+## Download 
+This dataset can be download from：
+BaiduNetdisk:https://pan.baidu.com/s/1PWsEwtdNKCdghthBnhb8XQ   password：ni88 
+GooleDrive:https://drive.google.com/drive/folders/1sGrmLmknhQ28nvasKbCqKvVj6rY2fCqL?usp=sharing   
 
-附：
-SAR样本数据集使用说明
-SAR样本数据集，依托国家高分辨率对地观测系统重大科技专项，构建一套全极化、覆盖典型地物要素类型、贴近实际应用的地物要素提取数据集，旨在进一步提高国产化数据使用率，推动SAR语义分割等先进技术深入研究。
-SAR样本数据集所有权归国家高分辨率对地观测系统重大科技专项和中国科学院空天信息创新研究院所有，《雷达学报》编辑部具有编辑出版权等。
-读者可免费使用该数据进行教学、科研等，但需在论文、报告等成果中引用或致谢。该数据禁止私自用于商业目的，如有商业需求，请与《雷达学报》编辑部联系。
-首次数据下载，请关注微信公众号后点击注册、并通过邮箱验证；以后数据下载，在开始时微信扫码即可。英文网站数据下载和注册，可直接通过邮箱验证进行。
+
+## Appendix
+
+全极化SAR样本数据集，依托国家高分辨率对地观测系统重大科技专项，构建一套全极化、覆盖典型地物要素类型、贴近实际应用的地物要素提取数据集，旨在进一步提高国产化数据使用率，推动SAR语义分割等先进技术深入研究。全极化SAR样本数据集所有权归国家高分辨率对地观测系统重大科技专项和中国科学院空天信息创新研究院所有。
