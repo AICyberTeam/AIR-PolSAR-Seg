@@ -9,11 +9,12 @@ The presented AIR-PolSAR-Seg contain 500 full-polarization SAR images with a siz
 ## Download 
 This data set can be download from：
 
-
 BaiduNetdisk:https://pan.baidu.com/s/1PWsEwtdNKCdghthBnhb8XQ   password：ni88 
 GooleDrive:https://drive.google.com/drive/folders/1sGrmLmknhQ28nvasKbCqKvVj6rY2fCqL?usp=sharing   
 
+The relevant code snippets can be download from:
+BaiduNetdisk:
 
 ## Appendix
 
-全极化SAR样本数据集，依托国家高分辨率对地观测系统重大科技专项，构建一套全极化、覆盖典型地物要素类型、贴近实际应用的地物要素提取数据集，旨在进一步提高国产化数据使用率，推动SAR语义分割等先进技术深入研究。全极化SAR样本数据集所有权归国家高分辨率对地观测系统重大科技专项和中国科学院空天信息创新研究院所有。
+The PolSAR data set, relying on the major scientific and technological projects of the national high-resolution earth observation system, aims to further promote the research of advanced technologies on SAR semantic segmentation. The ownership of the PolSAR data set belongs to the major science and technology project of the national high-resolution earth observation system and the Aerospace Information Research Institute, Chinese Academy of Sciences.
