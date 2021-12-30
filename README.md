@@ -23,3 +23,7 @@ https://github.com/jianlong-yuan/HOG-SVM-python
 https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest
 
 https://github.com/JeanKossaifi/python-hog
+
+## Appendix
+
+The PolSAR data set, relying on the major scientific and technological projects of the national high-resolution earth observation system, aims to further promote the research of advanced technologies on SAR semantic segmentation. The ownership of the PolSAR data set belongs to the major science and technology project of the national high-resolution earth observation system and the Aerospace Information Research Institute, Chinese Academy of Sciences.
