@@ -15,7 +15,11 @@ GooleDrive:https://drive.google.com/drive/folders/1sGrmLmknhQ28nvasKbCqKvVj6rY2f
 The link of code can be obtained from:
 
 https://github.com/open-mmlab/mmsegmentation
+
 https://github.com/rmislam/PythonSIFT
+
 https://github.com/jianlong-yuan/HOG-SVM-python
+
 https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest
+
 https://github.com/JeanKossaifi/python-hog
